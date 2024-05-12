@@ -1,4 +1,5 @@
 # Terrorism in the world
+![Globe - Unsplash]([picture/world_map.jpg "Globe - Unsplash")
 I worked on this project for my first course in Data Analytics at Coderhouse.
 ## Description of the project
 As part of the project, I analysed a dataset on terrorist attacks perpetrated between 1970 and 2017 all around the world. The dataset contains data on the geography, typology and deadliness of the attacks, as well as the organizations responsible for them.
